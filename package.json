@@ -1,0 +1,11 @@
+{
+    "name":"miduo-node-echo",
+    "version":"1.0.1",
+    "main":"./lib/echo.js",
+    "dependencies": {
+        "argv": "0.0.2"
+    },
+    "bin":{
+        "miduo-node-echo":"./bin/node-echo"
+    }
+}
